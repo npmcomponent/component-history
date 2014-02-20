@@ -1,18 +1,12 @@
 {
-  "name": "history-component",
+  "name": "component-history",
   "description": "Keep track of and cycle through history",
   "version": "0.0.2",
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "history": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/history.git"
-  }
+  "keywords": [
+    "history",
+    "undo",
+    "redo"
+  ],
+  "dependencies": {},
+  "license": "mit"
 }
